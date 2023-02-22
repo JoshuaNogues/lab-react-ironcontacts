@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+  height: 15vh
+}
+
+table td {
+  border: 0.5px solid black
+ }
